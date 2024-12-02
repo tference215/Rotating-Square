@@ -1,0 +1,8 @@
+0.7
+2020.2
+May 22 2024
+19:03:11
+D:/Project/Rotating-Square/Rotating-Square.sim/sim_1/behav/xsim/glbl.v,1708598508,verilog,,,,glbl,,uvm,,,,,,
+D:/Project/Rotating-Square/Rotating-Square.srcs/sim_1/new/roate_square_tb.sv,1733094420,systemVerilog,,,,roate_square_tb,,uvm,,,,,,
+D:/Project/Rotating-Square/Rotating-Square.srcs/sources_1/new/binary_counter.sv,1733094016,systemVerilog,,D:/Project/Rotating-Square/Rotating-Square.srcs/sources_1/new/rotate-square.sv,,binary_counter,,uvm,,,,,,
+D:/Project/Rotating-Square/Rotating-Square.srcs/sources_1/new/rotate-square.sv,1733085336,systemVerilog,,D:/Project/Rotating-Square/Rotating-Square.srcs/sim_1/new/roate_square_tb.sv,,rotate_square,,uvm,,,,,,

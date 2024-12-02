@@ -1,0 +1,7 @@
+Running: xsim.dir/roate_square_tb_behav/xsimk.exe -simmode gui -wdb roate_square_tb_behav.wdb -simrunnum 0 -socket 64064
+Design successfully loaded
+Design Loading Memory Usage: 9476 KB (Peak: 9476 KB)
+Design Loading CPU Usage: 0 ms
+Simulation completed
+Simulation Memory Usage: 18200 KB (Peak: 18200 KB)
+Simulation CPU Usage: 88468 ms
